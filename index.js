@@ -94,7 +94,7 @@ function chosenAdvice(input) {
     console.log("");
     console.log("");
     console.log(
-      "Thanks for choosing the random advive generator. Come back soon!! "
+      "Thanks for choosing the random advice generator. Come back soon!! "
     );
     exit();
   }
